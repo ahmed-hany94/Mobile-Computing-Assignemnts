@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/basicControls">
+
+        <item
+            android:id="@+id/volumeSilent"
+            android:title="@string/volumeSilentItemText"
+            android:icon="@android:drawable/ic_lock_silent_mode"
+            />
+
+        <item
+            android:id="@+id/volumeSilentOff"
+            android:title="@string/volumeSilentOffItemText"
+            android:icon="@android:drawable/ic_lock_silent_mode_off"
+            />
+    </group>
+
+</menu>

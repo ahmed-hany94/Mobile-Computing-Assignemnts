@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Myservice</string>
+    <string name="startServiceString">Start Service</string>
+    <string name="stopServiceString">Stop Service</string>
+    <string name="volumeSilentItemText"></string>
+    <string name="volumeSilentOffItemText"></string>
+</resources>
